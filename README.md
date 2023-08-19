@@ -1,4 +1,4 @@
-# gis-iot
+# webgis-iot
 Geographic Information System practicum final project
 
 ## Project setup and Installation
